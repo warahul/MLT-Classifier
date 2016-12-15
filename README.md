@@ -1,4 +1,4 @@
-CS771 : Vehicle Classifier for video
+Video Vehicle Detection and Classification system
 ===================================
 
 - Group : 6 
